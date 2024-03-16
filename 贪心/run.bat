@@ -1,3 +1,3 @@
 @echo off
-g++ -o main %1
-main.exe
+g++ -o ../main %1
+..\main.exe
